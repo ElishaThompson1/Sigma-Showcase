@@ -59,7 +59,7 @@ This repo is **screenshots + overview only**. For private code review under NDA,
   - `assets/screens/*.png` (min 1242×2688 if captured on device or 1080×2340 emulator)
 
 =======
-This repo is **screenshots + overview only**. For private code review under NDA, email [CONTACT EMAIL].
+This repo is **screenshots + overview only**. For private code review under NDA, email elishathompson3@gmail.com.
 
 ## What this is
 - UI/UX showcase only (no runnable code)
