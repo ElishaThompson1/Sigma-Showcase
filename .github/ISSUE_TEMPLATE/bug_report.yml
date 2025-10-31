@@ -1,0 +1,12 @@
+name: Showcase content issue
+description: Report a problem in the showcase (broken link, typo, missing image)
+title: "[Showcase] "
+labels: ["documentation"]
+body:
+  - type: textarea
+    id: desc
+    attributes:
+      label: What needs adjustment?
+      placeholder: Broken link, screenshot typo, etc.
+    validations:
+      required: true
