@@ -71,6 +71,4 @@ This repo is **screenshots + overview only**. For private code review under NDA,
 
 ## License & Trademarks
 - Proprietary Evaluation‑Only (view on GitHub only). See 'LICENSE'.
-  
-e816e70 (docs(showcase): add dark+light UI screenshots and wire README preview)
 - “Sigma” marks: all rights reserved.
