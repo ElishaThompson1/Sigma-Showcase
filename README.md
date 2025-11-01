@@ -58,7 +58,6 @@ This repo is **screenshots + overview only**. For private code review under NDA,
   - `assets/preview/hero-mockup.png` (1200–1600px wide)
   - `assets/screens/*.png` (min 1242×2688 if captured on device or 1080×2340 emulator)
 
-=======
 This repo is **screenshots + overview only**. For private code review under NDA, email elishathompson3@gmail.com.
 
 ## What this is
