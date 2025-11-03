@@ -52,7 +52,7 @@ This repo is **screenshots + overview only**. For private code review under NDA,
 
 ### Brand Notes
 
-- **Palette:** `#2562BB` (Sigma Blue), `#9CA3AF` (Muted), `#111217` (Border/Divider), `#000000` (Dark BG), `#FFFFFF` (Light BG)
+- **Palette:** `#2562BB` (Blue), `#9CA3AF` (Muted), `#111217` (Border/Divider), `#000000` (Dark BG), `#FFFFFF` (Light BG)
 - **Typography intent:** System fonts in repo; brand fonts applied in-app. README favors clarity over custom webfonts.
 - **Assets:**
   - `assets/preview/hero-mockup.png` (1200–1600px wide)
