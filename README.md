@@ -52,11 +52,11 @@ This repo is **screenshots + overview only**. For private code review under NDA,
 
 ### Brand Notes
 
-- **Palette:** `#2562BB` (Blue), `#9CA3AF` (Muted), `#111217` (Border/Divider), `#000000` (Dark BG), `#FFFFFF` (Light BG)
+- **Palette:** #2562BB (Blue), #9CA3AF (Muted), #111217 (Border/Divider), #000000 (Dark BG), #FFFFFF (Light BG)
 - **Typography intent:** System fonts in repo; brand fonts applied in-app. README favors clarity over custom webfonts.
 - **Assets:**
-  - `assets/preview/hero-mockup.png` (1200–1600px wide)
-  - `assets/screens/*.png` (min 1242×2688 if captured on device or 1080×2340 emulator)
+  - assets/preview/hero-mockup.png (1200–1600px wide)
+  - assets/screens/*.png (min 1242×2688 if captured on device or 1080×2340 emulator)
 
 This repo is **screenshots + overview only**. For private code review under NDA, email elishathompson3@gmail.com.
 
