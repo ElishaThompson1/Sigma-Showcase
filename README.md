@@ -2,6 +2,16 @@
 
 This repo is **screenshots + overview only**. For private code review under NDA, email elishathompson3@gmail.com.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ECharts-AA3434?style=for-the-badge&logo=apacheecharts&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-ready-brightgreen?style=for-the-badge"/>
+</p>
+
 ## Preview
 
 <!-- Hero Mockup (presentation) -->
